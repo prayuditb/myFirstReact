@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-2b9d1a441b02963b49f76c981a3fbbdf5b5abfae.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-dc0795b44e17b4977d19d486bb0dddd940e4bda1.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-5969f5ce3be36b34b65e59438d506b3a5e389131.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-3cf76855d7537030b1b0ea6bb2c21ecbde4ebe29.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-e7636623687466f6cd44026bb8952ce0559de8b5.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-79d002fe86f4b1d7611415b11afb8667ac6a3338.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-c8739c10fd7e94f90322f29a67470f87cbf38a74.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-17b0d52c597c4d3dcc6ae6df1c46e2e4cd193ab8.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-abc2d2d5ac1e02e2c70215f91b9f3e1a0a669ebc.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-3313189ac282f63b0c14d2e207c2f721dd7ac3ec.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-a65174acdb500cb79ee32123c3712268351a62c9.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-f24b79f9bbfda81e5b4cb71d4b5d5c832815da1f.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-7fb402925171528859e264f5dd7da243a0b668c2.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-76a5b2b48b3e1014589ce2473f6f3e4d5fab5576.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-0292e4e3fad230711b2fb9e0749365f4b3d4eaaf.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-f80bb54b719582540a289990a7217846b360098c.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-e6d744b4e3f42f43f885638c7f60484edc610906.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-e8db5d49a4f80714645d6c738936bf55079939d6.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-0f68edca0b0f725c72a10b5fd7285710c4bef2e1.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-03c80acff472c45de2ef3cf3909bff203d171aa3.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-ff18a0342f517478d1677c25b040b1224e387ab6.jar" />
+    </item>
+    <item
+        jar="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/prayudi/Documents/reactBayu1/android/app/build/intermediates/pre-dexed/debug/classes-00e68e913d8e5debef1d71c5419b662f9b9fa72b.jar" />
+    </item>
+
+</items>
